@@ -1,0 +1,10 @@
+# Wokwi Library List
+# See https://docs.wokwi.com/guides/libraries
+
+PubSubClient
+DallasTemperature
+OneWire
+Serial_Monitor
+Bonezegei_DHT22
+DHT22
+DHT sensor library
