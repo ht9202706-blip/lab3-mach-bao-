@@ -10,7 +10,7 @@ Thiết kế mạch báo cháy gia đình sử dụng ESP32, FreeRTOS, cảm bi�
 [Download báo cáo Lab 3](./Bao_cao_Lab_3_Mach_bao_chay_ESP32_FreeRTOS_MQTT.docx)
 
 ## 3. Mô phỏng Wokwi
-[Dán link Wokwi tại đây](DAN_LINK_WOKWI)
+[Dán link Wokwi tại đây]([DAN_LINK_WOKWI](https://wokwi.com/projects/477959412037374977))
 
 ## 4. Giao diện Website
 [Dán link Website tại đây](DAN_LINK_WEBSITE)
