@@ -7,7 +7,7 @@ https://wokwi.com/projects/477959412037374977
 Thiết kế mạch báo cháy gia đình sử dụng ESP32, FreeRTOS, cảm biến MQ2, DHT22 và giao thức MQTT.
 
 ## 2. Báo cáo
-[Download báo cáo Lab 3](https://1drv.ms/w/c/98a1e36013f6be55/IQCdgs9sMXTIRb-1h2lgSsZIAcVpHLQXaA-7DTBoet1-Zo4?e=AFW8sd)
+[Download báo cáo Lab 3](https://1drv.ms/w/c/98a1e36013f6be55/IQCdgs9sMXTIRb-1h2lgSsZIAewoGdTu9LXzKsvU30AJRy4?e=KPAvEd)
 
 ## 3. Mô phỏng Wokwi
 [Dán link Wokwi tại đây](https://wokwi.com/projects/477959412037374977).
